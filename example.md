@@ -8,7 +8,6 @@
 </script>
 
 # Example chapter title
---- 
 
 ## Slide about chapter
 

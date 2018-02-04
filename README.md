@@ -1,5 +1,4 @@
 # Calin's Notes, Computer Science at the University of Manchester
----
 
 ## Introduction
 

@@ -8,7 +8,6 @@
 </script>
 
 # Calin's Notes, Computer Science at the University of Manchester
----
 
 ## Introduction
 
@@ -33,13 +32,14 @@ Feel free to [contribute](https://github.com/colinx05/uom-notes).
 
 ## Scripts
 
-Here are some [aliases](#) and [scripts](#) that helped me during my time doing CS@UoM [TODO]
+Here are some [aliases](https://gist.github.com/colinx05/80316361a68d295aea2fb0a00ecf2526) and [scripts](#) that helped me during my time doing CS@UoM
 
 ## Donations
 
 If you feel philanthropic feel free to send your skrilla this way:
-![Ethereum](https://store-images.s-microsoft.com/image/apps.1348.9007199266486573.ae256f0e-c957-484a-9d81-5e17b5d3d45f.0b591ed1-1a29-4acc-b2c6-a0ba3b7db6e5?w=100&h=100&q=60) [TODO]
-![Bitcoin](https://www.flippening.watch/images/ethereum.png) [TODO]
+
+* BTC: `1Nk4N9SBHtS346zSVo5pAmkkvc2t79ZwVe`
+* ETH: `0x8d079e1Fa263f8A0A2c1fA6EbE6cf8Da9023C3af`
 
 ## License
 Notes are provided under `THE BEER-WARE LICENSE`, see below.
