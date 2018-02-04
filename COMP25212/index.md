@@ -38,3 +38,4 @@ Lecturers: [Javier Navaridas](mailto:javier.navaridas@manchester.ac.uk) (course 
 
 * *Computer Organization and Design. The Hardware/Software Interface* - D.A. Patterson & J.L. Hennessy
 * *Virtual Machines: Versatile Platforms for Systems and Processes* - Morgan Kaufmann
+* 
