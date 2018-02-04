@@ -16,11 +16,7 @@ Feel free to [contribute](https://github.com/colinx05/uom-notes).
 
 ## Course Notes
 
-* First year
-  * COMP1xxxx [TODO x9]
-
-* Second year
-  * COMP2xxxx [TODO x5]
+* Second Year
   * [COMP22712 - Microcontrollers](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP22712/lab_manual.pdf) -  This is a lab only course, link to manual
   * [COMP23412 - Software Engineering 2](COMP28112/index.md)
   * [COMP25212 - System Architecture](COMP25212/index.md)
@@ -29,6 +25,25 @@ Feel free to [contribute](https://github.com/colinx05/uom-notes).
   * [COMP28112 - Distributed Computing](COMP28112/index.md)
   * [COMP27112 - Computer Graphics & Image Processing](COMP27112/index.md)
   * [UCIL24002 - Art of Enterprise](UCIL24002/index.md)
+
+#### TODO
+* [COMP10120- First Year Project](#)
+* [COMP11120- Mathematical Techniques for Computer Science](#)
+* [COMP11212- Fundamentals of Computation](#)
+* [COMP12111- Fundamentals of Computer Engineering ](#)
+* [COMP14111- Fundamentals of Artificial Intelligence](#)
+* [COMP15111- Fundamentals of Computer Architecture](#)
+* [COMP16121- Object Oriented programming in Java 1](#)
+* [COMP16212- Object Oriented programming in Java 2](#)
+* [COMP18111- Fundamentals of Distributed Systems](#)
+* [COMP23111 - Fundamentals of Databases](#)
+* [COMP23311 - Software Engineering 1](#)
+* [COMP24111 - Machine Learning and Optimisation](#)
+* [COMP25111 - Operating Systems (Online)](#)
+* [COMP26120 - Algorithms and Imperative Programming (Sem 1)](#)
+* [COMP28411 - Computer Networks (Online)](#)
+
+For all of those I recommend checking out [Todd's](https://todddavies.co.uk/#Notes) notes
 
 ## Scripts
 
