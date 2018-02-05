@@ -18,7 +18,7 @@ Feel free to [contribute](https://github.com/colinx05/uom-notes).
 
 * Second Year
   * [COMP22712 - Microcontrollers](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP22712/lab_manual.pdf) -  This is a lab only course, link to lab manual
-  * [COMP23412 - Software Engineering 2](COMP28112)
+  * [COMP23412 - Software Engineering 2](COMP23412)
   * [COMP25212 - System Architecture](COMP25212)
   * [COMP24412 - Symbollic AI](http://thee-engineer.github.io/uom-notes/COMP24412) - Courtesy of Alex Paul Copil
   * [COMP26120 - Algorithms and Imperative Programming](COMP26120)
