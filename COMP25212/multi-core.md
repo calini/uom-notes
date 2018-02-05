@@ -10,5 +10,3 @@
 # Multi Core
 
 # UNDER CONSTRUCTION
-
-[Back to index](/)
