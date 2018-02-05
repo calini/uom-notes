@@ -10,8 +10,9 @@
 # COMP26120: Algorithms and Impreative Programming 
 
 ## Links
+
+* [Course Material](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/)
 * [BigOCheatSheet](http://bigocheatsheet.com)
-* [Course material](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/)
 
 Lecturers: [Milan Mihajlovic](#) (course leader), [Ian Pratt-Hartmann](#)
 
