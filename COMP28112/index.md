@@ -16,8 +16,7 @@
 Lecturers: [Rizos Sakellariou](http://www.cs.man.ac.uk/~rizos/) (course leader)
 
 ## Table of contents
-* Category 1
-	* [Concept 1](concept-1.md)
+* [Architecture of Distributed Systems](architecture-of-ds.md)
 		
 ## Timetable
 
