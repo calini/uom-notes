@@ -20,7 +20,7 @@ Lecturers: [Antoniu Pop](mailto:antoniu.pop@manchester.ac.uk), [Javier Navaridas
 	* [Caches](caches.md)
 	* [Pipelines](pipelines.md)
 	* [Multi-Threading](multithreading.md)
-	* [Pipelines](multi-core.md)
+	* [Multi-Core](multi-core.md)
 
 * Making processors more flexible
 	* [Virtualization](virtualization.md)
