@@ -45,3 +45,38 @@ Questions
 ===
 Why 2^48 in a 64 bit computer and not 2^64?
 Intro lecture slides link?
+
+
+* Computing tech trends, challenges & some solutions
+* Rapid increase of processing power
+* Slow increase of memory access capability
+* Memory wall
+* Solution: **Caches**, out of order execution, prefetching, compiler optimisations, etc.
+* No silver bullet...
+
+
+Core concepts behind caches:
+
+
+
+Test:
+
+* Cache behaviour
+* Parameters
+* Limits
+
+Learn:
+
+* How the cache works
+* How memory accesses are handled
+* What inhibits the cache's behaviour
+
+Understand:
+
+* Importance of caches
+* How to avoid inefficient patterns
+* How to write, optimise programs
+* How cache is structured
+* How it operates (CPU reads, CPU writes0
+* Key cache performance parameters
+* Making cache more efficient
