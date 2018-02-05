@@ -11,7 +11,7 @@
 
 ## Links
 
-* [Course materials](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP28112/)
+* [Course Material](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP28112/)
 
 Lecturers: [Rizos Sakellariou](http://www.cs.man.ac.uk/~rizos/) (course leader)
 

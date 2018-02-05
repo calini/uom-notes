@@ -11,7 +11,8 @@
 
 ## Links
 
-Course material: [link](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP25212/)
+* [Course Material](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP25212/)
+
 Lecturers: [Antoniu Pop](mailto:antoniu.pop@manchester.ac.uk), [Javier Navaridas](mailto:javier.navaridas@manchester.ac.uk) (course leader)
 
 ## Table of contents
