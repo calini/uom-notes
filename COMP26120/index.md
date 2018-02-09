@@ -7,7 +7,7 @@
   gtag('config', 'UA-113560131-1');
 </script>
 
-# COMP26120: Algorithms and Impreative Programming 
+# COMP26120: Algorithms and Impreative Programming (Sem 2)
 
 ## Links
 
@@ -35,14 +35,17 @@ Lecturers: [Milan Mihajlovic](#) (course leader), [Ian Pratt-Hartmann](#)
 ## Timetable
 
 * Lab:
-	* Thursdays 9AM, Week B in *LF31*
+	* Wednesdays 10:00, Week A in *G23*
 * Lectures:
-	* Wednesdays 9AM in *Uni Place TH.A*
-	* Friday 2PM in *Kilburn LT1.1*
+	* Tuesdays 14:00
 
-* Guest lecture on *Multicore Systems* by John Goodacre
-	* Date: TBD
-	 
+## Labs
+
+* [Lab 9](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex9.html) (3 sessions) - 21 February 10:00
+* [Lab 10](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex10.html) (3 sessions) - 14 March 10:00 [you will need to read [this](http://studentnet.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/knapsack.pdf)]
+* [Lab 11](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex11-new.html) (1 session) - 21 March 10:00
+* [Lab 12](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex12.html) (3 sessions) 2 May 10:00
+
 ## Recommended textbooks
 
 * *Title* - Author

@@ -20,13 +20,17 @@ Other useful links:
 * [GLUT Reference Manual](http://studentnet.cs.manchester.ac.uk/ugt/COMP27112/doc/glut-reference.pdf)
 * [OpenGL (2.1) Reference](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/)
 
+Examples and simulations:
+* [WebGL Water](http://madebyevan.com/webgl-water/)
+* [For the Birds - Pixar](https://www.youtube.com/watch?v=AkFuvTHaMUE)
+
 Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [Tim Morris](mailto:tim.morris@manchester.ac.uk)
 
 ## Table of contents
-* First part
-    * [Introduction to course + image synthesis](intro.md)
+* Interactive Computer graphics "synthetic" (Toby)
+    * [Introduction, history and pipelines](intro.md)
     * [Transformations](transformations.md)
-    * [Polygons and pixels](polygons-pixels.md)
+    * [Polygons and pixels](polygons/index.md)
     * [3D Viewing](3d-viewing.md)
         * [The Camera](3d-viewing.md/#camera)
         * [Projections](3d-viewing-md/#projections)
@@ -34,7 +38,7 @@ Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [
         * [Local Illumination](rendering.md/#illumination)
         * [Shading and Interpolation](rendering.md/#shading-interpolation)
         * [Surface Detail](rendering.md/#shading)
-* Second part
+* Image Processing "analytic" (Tim)
     * [Image Processing](image-processing.md)
     * [Point Processing](point-processing.md)
     * [Region Processing](region-processing.md)
@@ -72,6 +76,10 @@ Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [
 3. [ ] [Point Processing Transformations](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20615301_1/xid-20615301_1) - 26 April 9:00
 4. [ ] [Image Enhacement](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20615302_1/xid-20615302_1) - 10 May 9:00
 
+* Can I use C++? Yes
+* Can I use C#/Objective C? Keep it to the C family
+    * But: TA help not guaranteed, Pp **OpenGL** not recommended
+
 ## Coursework
 1. [ ] [Introducing OpenGL](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614193_1/xid-20614193_1) - 16 February 17:00 
 2. [ ] [3D modelling and viewing](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614194_1/xid-20614194_1) - 2 March 17:00 
@@ -81,17 +89,20 @@ Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [
 
 ## Course aims
 
-To enhance your knowledge and understanding, answering such questions as:
-* How are three-dimensional environments represented in a computer, and how are interactive 3D worlds created?
-* How are 2D and 3D representations combined ? for example, how can we recover 3D geometry from 2D images?
-* How are the basic mathematical techniques and algorithms used to build useful applications?
-* How are images stored, processed and manipulated?
-* How can computers interpret images captured by cameras and other recording devices?
+* To introduce the theory and practice of interactive 3D computer graphics and image processing
+* To be able to:
+    * Describe the principles of interactive computer graphics
+    * Design systems using fixed-pipeline OpenGL
+    * Apply the mathematics of 3D transformations and viewing
+    * Describe principles of the rendering pipeline
+    * Describe principles of image processing
+    * Implement fundamental image processing algorithms
 
 ## Recommended textbooks
 
 * [*OpenGL Programmer's Guide*](http://www.glprogramming.com/red/) *aka "The Red Book"* - Dave Shreiner
 * *Interactive Computer Graphics: A Top-Down Approach Using OpenGL (4th Edition)* - Edward Angel
+* *Open GL: A primer* - Edward Angel
 * *Image Processing, Analysis and Machine Vision* - Hlavac and Sonka
 * *The Image Processing Cookbook* - John C. Russ
 * *Computer Vision and Image Processing* - Tim Morris
