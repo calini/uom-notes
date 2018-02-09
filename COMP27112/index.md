@@ -28,21 +28,21 @@ Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [
 
 ## Table of contents
 * Interactive Computer graphics "synthetic" (Toby)
-    * [Introduction, history and pipelines](intro.md)
-    * [Transformations](transformations.md)
+    * [Introduction, history and pipelines](intro/index.md)
+    * [Transformations](transformations/index.md)
     * [Polygons and pixels](polygons/index.md)
-    * [3D Viewing](3d-viewing.md)
-        * [The Camera](3d-viewing.md/#camera)
-        * [Projections](3d-viewing-md/#projections)
+    * [3D Viewing](3d-viewing/index.md)
+        * [The Camera](3d-viewing/index.md#camera)
+        * [Projections](3d-viewing/index.md#projections)
     * [Rendering]()
-        * [Local Illumination](rendering.md/#illumination)
-        * [Shading and Interpolation](rendering.md/#shading-interpolation)
-        * [Surface Detail](rendering.md/#shading)
+        * [Local Illumination](rendering/index.md/#illumination)
+        * [Shading and Interpolation](rendering/index.md/#shading-interpolation)
+        * [Surface Detail](rendering/index.md/#shading)
 * Image Processing "analytic" (Tim)
-    * [Image Processing](image-processing.md)
-    * [Point Processing](point-processing.md)
-    * [Region Processing](region-processing.md)
-    * [Region Detection and Description](region-detection.md)
+    * [Image Processing](image-processing/index.md)
+    * [Point Processing](point-processing/index.md)
+    * [Region Processing](region-processing/index.md)
+    * [Region Detection and Description](region-detection/index.md)
 	
 ## Timetable
 
