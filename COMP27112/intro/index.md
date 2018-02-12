@@ -57,7 +57,7 @@
 
 ## Types of pipeline
 
-![fixed-pipeline](pipeline.png)
+![fixed-pipeline](fixed-pipeline.png)
 
 * con: new algorithms and techniques can’t be added
 * con: it’s deprecated!

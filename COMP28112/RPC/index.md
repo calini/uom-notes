@@ -113,6 +113,26 @@ What are Remote Object References?
 * A string is bound to the remote object, and the clients interrogate the registry using the string
 * The client must know the server machine name and the port the registry is on (there is a default) 
 
-### Reading
+###### Reading
 * Coulouris (ed. 4 or 5): Chapter 5 (but see Chapter 4 for “marshalling”);
 * Tanenbaum: Section 4.2 (see 10.3.4 for RMI)
+
+
+## Passing Parameters
+* In a language, such as C, procedure call parameters can be **call-by-value** (modifications by the procedure are valid only within a procedure) or **call-by-reference** (a pointer is passed and modifications affect the memory location).
+* Call by **copy/restore** can be used in RPC to replace call-by-reference. E.g.:
+    * Client stub copies contents of a pointer to an array of characters to a message (assumes knowledge of size of the array)
+    * Message sent to the server. Server stub provides pointer to the server to this array of characters. Modifications take place to this array of characters.
+    * When the server finishes, the original message can be sent back to the client stub that copies it to the client.
+    (still cannot handle the general case of a pointer to an arbitrary data structure)
+
+(see Tanenbaum, Sections 4.2.1, 4.2.2)
+
+**At least once** and **At most once**
+Why not **Exactly once** semantics?
+Exactly once doesn't work because nobody can guarantee that a particular message isn't lost
+
+At least once = Message is sent until ack has been received
+At most once = Message is sent once, don't care about ack
+
+**RPC** doesn't do pointers because addresses are local. **copy/restore** partially solves this problem (exercise in lecture shows there are problems with it too.

@@ -19,3 +19,5 @@
 
 * A binary tree = ordered tree in which each node has at most 2 children
 * Proper binary tree = exactly zero/two children for each node.
+
+## UNDER CONSTRUCTION

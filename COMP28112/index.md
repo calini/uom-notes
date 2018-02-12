@@ -16,7 +16,7 @@
 Lecturers: [Rizos Sakellariou](http://www.cs.man.ac.uk/~rizos/) (course leader)
 
 ## Table of contents
-* [Architecture of Distributed Systems](architecture-of-ds/index.md)
+* [Architecture of Distributed Systems](architecture/index.md)
 * [Remote Procedure Calls](RPC/index.md)
 		
 ## Timetable
