@@ -76,3 +76,45 @@ TODO
 
 # TODO
 
+
+# Projections
+
+## Planar Geometric Projections
+* Doesn't distort lines
+* Others do (see cartography)
+
+### Parallel projection
+
+* The projection is a set of points at chich the projectors intersect the projection plane
+* Parallel edges remain parallel in the projection. Angles between edges may be distorted.
+
+### Ortographic parallel projection
+* Projectors are **perpendicular** to the projection plane
+* The projection plane is **parallel** to a plante (Xy, Xy, Xz) of the world
+
+### Axonometric parallel projection
+* In axonometric projection, projectors are **perpendicular** to the projection plane
+* The projection plane can have **any orientation**
+* Now we can see the 3 axes. Distortion of lengths or angles, but measurements can still be made
+
+### Oblique parallel projection
+* Most general case
+* Projector can make **any angle** with the projection plane
+* Projection plane can have **any orientation** relative to the object being viewed
+
+### Removing hidden surfaces
+A projection is by definition "flattened" ou
+Solution: Projection normalization
+* We need a perspective transformation which preserves depth information.
+* Suppose we have a particular perspective transformation expressed by frustum F and matrix M
+* It can be shown that we can derive a new transformation matrix PN, based on M, that distorts F into a cube
+* Transforming our model by PN, and then taking an orthographic projection produces exactly the same result as performing our original perspective transformation M, with one difference: the z depth values are preserved
+* This new technique is called projection normalization, and OpenGL creates PN for us automatically.
+
+### Clipping 
+Clipping takes place in the cube produced by projection normalization (easier than clipping against a frustum)
+
+![](clipping.png)
+
+
+Check out [Julian Beever](http://julianbeever.net)
