@@ -7,13 +7,11 @@
   gtag('config', 'UA-113560131-1');
 </script>
 
-# Example chapter title
+# An introduction to algorithmic problem-solving techniques
 
-## Slide about chapter
+* **Algorithmic techniques** may or may not provide solutions: a range of **tools for constructing algorithms**
+* Techniques
+  * Divide and Conquer
+  * Greedy Strategies
+  * Dynamic Programming
 
-Text about slide.
-
- * List item 1
- * List item 2
-    * Sublist item 1
-    * Sublist item 2

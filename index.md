@@ -16,16 +16,19 @@ Feel free to [contribute](https://github.com/colinx05/uom-notes).
 
 ## Course Notes
 
-* Second Year
-  * [COMP22712 - Microcontrollers](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP22712/lab_manual.pdf) -  This is a lab only course, link to lab manual
+### Year 2 Semester 2
   * [COMP23412 - Software Engineering 2](COMP23412)
   * [COMP25212 - System Architecture](COMP25212)
-  * [COMP24412 - Symbollic AI](http://thee-engineer.github.io/uom-notes/COMP24412) - Courtesy of Alex Paul Copil
   * [COMP26120 - Algorithms and Imperative Programming](COMP26120)
   * [COMP28112 - Distributed Computing](COMP28112)
   * [COMP27112 - Computer Graphics & Image Processing](COMP27112)
   * [UCIL24002 - Art of Enterprise](UCIL24002)
 
+### Other Courses
+  * [COMP22712 - Microcontrollers](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP22712/lab_manual.pdf) -  This is a lab only course, link to lab manual
+  * [COMP24412 - Symbollic AI](http://thee-engineer.github.io/uom-notes/COMP24412) - Courtesy of Alex Paul Copil
+
+<!--
 #### TODO
 * [COMP10120- First Year Project](#)
 * [COMP11120- Mathematical Techniques for Computer Science](#)
@@ -44,10 +47,11 @@ Feel free to [contribute](https://github.com/colinx05/uom-notes).
 * [COMP28411 - Computer Networks (Online)](#)
 
 For all of those I recommend checking out [Todd's](https://todddavies.co.uk/#Notes) notes. Some may not be 100% up to date but they are really good! 
+-->
 
 ## Scripts
 
-Here are some [aliases](https://gist.github.com/colinx05/80316361a68d295aea2fb0a00ecf2526) and [scripts](#) that helped me during my time doing CS@UoM
+Here are some shell [aliases](https://gist.github.com/colinx05/80316361a68d295aea2fb0a00ecf2526) that helped me during my time doing CS@UoM
 
 ## Donations
 

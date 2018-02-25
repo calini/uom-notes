@@ -1,4 +1,14 @@
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113560131-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-113560131-1');
+</script>
+
 # Art of Enterprise
+
 ## Links
 * [Course Content](https://online.manchester.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_46058_1&content_id=_5151202_1&mode=reset)
 ## Summative assignment
