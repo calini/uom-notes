@@ -46,8 +46,11 @@ Feel free to [contribute](https://github.com/colinx05/uom-notes).
 * [COMP26120 - Algorithms and Imperative Programming (Sem 1)](#)
 * [COMP28411 - Computer Networks (Online)](#)
 
-For all of those I recommend checking out [Todd's](https://todddavies.co.uk/#Notes) notes. Some may not be 100% up to date but they are really good! 
 -->
+
+## Links
+ * [Todd's](https://todddavies.co.uk/#Notes) notes. Some may not be 100% up to date but they are really good!
+ * [Alex's](http://thee-engineer.github.io/uom-notes) notes. More up to date, but does not cover everything.
 
 ## Scripts
 
