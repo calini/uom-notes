@@ -17,21 +17,9 @@
 Lecturers: [Milan Mihajlovic](#) (course leader), [Ian Pratt-Hartmann](#)
 
 ## Table of contents
-* Architectural techniques - making the processor go faster
-	* [Caches](caches.md)
-	* [Pipelines](pipelines.md)
-	* [Multi-Threading](multithreading.md)
-	* [Pipelines](multi-core.md)
+* TODO
 
-* Making processors more flexible
-	* [Virtualization](virtualization.md)
 
-* Architecture of permanent storage
-	* [Permanent storage](permanent-storage.md)
-
-* Extra
-	* [Motivations for course](motivations.md)
-	
 ## Timetable
 
 * Lab:
