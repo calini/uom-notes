@@ -59,3 +59,8 @@
 
 * Improvments in technology and society improved the distribution of music
 * Radios, records, CDs -> Increased chance to listen to music at home, not just in concerts
+
+## Inspired from nature
+* King fisher's beak -> Japan's High speed trains shape
+* Bees -> Electrical current coordination, drones
+* Flower that sticks to fur -> Velcro

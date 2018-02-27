@@ -20,8 +20,8 @@ Feel free to [contribute](https://github.com/colinx05/uom-notes).
   * [COMP23412 - Software Engineering 2](COMP23412)
   * [COMP25212 - System Architecture](COMP25212)
   * [COMP26120 - Algorithms and Imperative Programming](COMP26120)
-  * [COMP28112 - Distributed Computing](COMP28112)
   * [COMP27112 - Computer Graphics & Image Processing](COMP27112)
+  * [COMP28112 - Distributed Computing](COMP28112)
   * [UCIL24002 - Art of Enterprise](UCIL24002)
 
 ### Other Courses
