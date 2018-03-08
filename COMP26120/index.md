@@ -29,10 +29,10 @@ Lecturers: [Milan Mihajlovic](#) (course leader), [Ian Pratt-Hartmann](#)
 
 ## Labs
 
-* [Lab 9](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex9.html) (3 sessions) - 21 February 10:00
-* [Lab 10](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex10.html) (3 sessions) - 14 March 10:00 [you will need to read [this](http://studentnet.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/knapsack.pdf)]
-* [Lab 11](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex11-new.html) (1 session) - 21 March 10:00
-* [Lab 12](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex12.html) (3 sessions) 2 May 10:00
+* [x] [Lab 9](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex9.html) (3 sessions) - 28 February 10:00
+* [ ] [Lab 10](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex10.html) (3 sessions) - 21 March 10:00 [you will need to read [this](http://studentnet.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/knapsack.pdf)]
+* [ ] [Lab 11](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex11-new.html) (1 session) - 28 March 10:00 ?(It happens during Easter break, may be extended till afterwards)
+* [ ] [Lab 12](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP26120/lab/ex12.html) (3 sessions) 9 May 10:00
 
 ## Recommended textbooks
 
