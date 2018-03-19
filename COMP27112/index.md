@@ -83,7 +83,7 @@ Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [
 ## Coursework
 1. [x] [Introducing OpenGL](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614193_1/xid-20614193_1) - 16 February 17:00 
 2. [x] [3D modelling and viewing](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614194_1/xid-20614194_1) - 2 March 17:00 
-3. [ ] [Lighting and texture](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614196_1/xid-20614196_1) - 16 March 17:00
+3. [x] [Lighting and texture](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614196_1/xid-20614196_1) - 16 March 17:00
 4. [ ] [Read, modify and save an image](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614197_1/xid-20614197_1) - 30 March 17:00
 5. [ ] [Region Based Processing](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614198_1/xid-20614198_1) - 4 May 17:00
 
