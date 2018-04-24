@@ -12,6 +12,16 @@
 ## Links
 
 * [Course Material](https://online.manchester.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_48249_1&content_id=_5500854_1)
+* Week 1
+  * [Understanding MVC](https://blog.codinghorror.com/understanding-model-view-controller/)
+  * [Martin Fowler's discussion of GUI architecture](https://martinfowler.com/eaaDev/uiArchs.html)
+* Week 2
+* [Ben Schneiderman's "Eight Golden Rules of Interface Design"](https://www.cs.umd.edu/users/ben/goldenrules.html)
+* Week 6
+  * [Martin Fowler on test coverage](https://martinfowler.com/bliki/TestCoverage.html)
+  * [Martin Fowler on test doubles](https://martinfowler.com/bliki/TestDouble.html)
+* Week 9
+  * [Acceptance Testing, a perspective from the agile alliance](https://www.agilealliance.org/glossary/acceptance/)
 
 Course leader: [Caroline Jay](mailto:caroline.jay@manchester.ac.uk)
 
