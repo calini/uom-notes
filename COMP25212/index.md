@@ -49,7 +49,7 @@ Lecturers: [Antoniu Pop](mailto:antoniu.pop@manchester.ac.uk), [Javier Navaridas
 	* 
 ## Labs
 1. [x] [Lab 1](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP25212/labs/lab1.pdf) (1 session) - 8 February 11:00 + ask for extension
-2. [ ] [Labs 2+3](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP25212/labs/lab23.pdf) (2+1 sessions) - 15 March 11:00 (Part 1) + 22 March 11:00 (Part 2) + ask for extension
+2. [ ] [Labs 2+3](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP25212/labs/lab23.pdf) (2+1 sessions) - 15 March 11:00 (Part 1) + 22 March 11:00 (Part 2, ask for extension!!)
 3. [ ] [Lab 4](http://syllabus.cs.manchester.ac.uk/ugt/2017/COMP25212/labs/lab4.pdf) (1 session) - 26 April 11:00 + ask for extension
 
 ## Course aims
