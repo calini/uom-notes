@@ -35,8 +35,8 @@ Lecturers: [Rizos Sakellariou](http://www.cs.man.ac.uk/~rizos/) (course leader)
     * 80% of course mark
 
 ## Labs
-1. [x] [Lab 1](http://syllabus.cs.manchester.ac.uk/ugt/COMP28112/2017/ex1.pdf) (1 session) - Friday 16 February 11:00
-2. [ ] [Lab 2](http://syllabus.cs.manchester.ac.uk/ugt/COMP28212/2017/ex2.pdf) (3 sessions) - 2 March 11:00 (Part 1), 20 April 11:00 (Part 2)
+1. [x] [Lab 1](http://syllabus.cs.manchester.ac.uk/ugt/COMP28112/2017/ex1.pdf) (1 session)
+2. [x] [Lab 2](http://syllabus.cs.manchester.ac.uk/ugt/COMP28212/2017/ex2.pdf) (3 sessions)
 3. [ ] [Lab 3](http://syllabus.cs.manchester.ac.uk/ugt/COMP28112/2016/ex3.pdf) (1 session) - 4 May 11:00
 
 ## Course aims

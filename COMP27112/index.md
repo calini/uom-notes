@@ -71,20 +71,21 @@ Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [
 
 ## Labs
 
-1. [x] [Kwake World](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20614199_1/xid-20614199_1) - 22 February 9:00
-2. [ ] [The Orrey](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20614200_1/xid-20614200_1) (2 sessions) - 22 March 9:00
+1. [x] [Kwake World](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20614199_1/xid-20614199_1) (1 session)
+2. [ ] [The Orrey](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20614200_1/xid-20614200_1) (2 sessions)
 3. [ ] [Point Processing Transformations](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20615301_1/xid-20615301_1) - 26 April 9:00
 4. [ ] [Image Enhacement](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20615302_1/xid-20615302_1) - 10 May 9:00
 
 * Can I use C++? Yes
-* Can I use C#/Objective C? Keep it to the C family
-    * But: TA help not guaranteed, Pp **OpenGL** not recommended
+* Can I use C#/Objective C? Yes, but:
+    * Keep it to the C family
+    * TA help not guaranteed, Pp **OpenGL** not recommended
 
 ## Coursework
 1. [x] [Introducing OpenGL](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614193_1/xid-20614193_1) - 16 February 17:00 
 2. [x] [3D modelling and viewing](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614194_1/xid-20614194_1) - 2 March 17:00 
 3. [x] [Lighting and texture](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614196_1/xid-20614196_1) - 16 March 17:00
-4. [ ] [Read, modify and save an image](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614197_1/xid-20614197_1) - 30 March 17:00
+4. [x] [Read, modify and save an image](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614197_1/xid-20614197_1) - 30 March 17:00
 5. [ ] [Region Based Processing](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614198_1/xid-20614198_1) - 4 May 17:00
 
 ## Course aims
