@@ -13,6 +13,7 @@
 Course leader: [Caroline Jay](mailto:caroline.jay@manchester.ac.uk)
 
 * [Course Material [Blackboard]](https://online.manchester.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_48249_1&content_id=_5500854_1)
+* [Lab Manual [Blackboard]](https://online.manchester.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_48249_1&content_id=_5807785_1)
 * Week 1
   * [Understanding MVC](https://blog.codinghorror.com/understanding-model-view-controller/)
   * [Martin Fowler's discussion of GUI architecture](https://martinfowler.com/eaaDev/uiArchs.html)
