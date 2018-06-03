@@ -27,30 +27,31 @@ Examples and simulations:
 Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [Tim Morris](mailto:tim.morris@manchester.ac.uk)
 
 ## Table of contents
-* Interactive Computer graphics "synthetic" (Toby)
-    * [Introduction, history and pipelines](intro/index.md)
-    * [Transformations](transformations/index.md)
-    * [Polygons and pixels](polygons/index.md)
-    * [3D Viewing](3d-viewing/index.md)
-        * [The Camera](3d-viewing/index.md#camera)
-        * [Projections](3d-viewing/index.md#projections)
+
+* Interactive Computer Graphics "synthetic" (Toby)
+    * [Introduction, history and pipelines](1-intro/index.md)
+    * [Transformations](2-transformations/index.md)
+    * [Polygons and pixels](3-polygons/index.md)
+    * [3D Viewing](4-3d-viewing/index.md)
+        * [The Camera](4-3d-viewing/index.md#camera)
+        * [Projections](4-3d-viewing/index.md#projections)
     * [Rendering]()
-        * [Local Illumination](rendering/index.md/#illumination)
-        * [Shading and Interpolation](rendering/index.md/#shading-interpolation)
-        * [Surface Detail](rendering/index.md/#shading)
+        * [Local Illumination](5-rendering/index.md/#illumination)
+        * [Shading and Interpolation](5-rendering/index.md/#shading-interpolation)
+        * [Surface Detail](5-rendering/index.md/#shading)
 * Image Processing "analytic" (Tim)
-    * [Image Processing](image-processing/index.md)
-    * [Point Processing](point-processing/index.md)
-    * [Region Processing](region-processing/index.md)
-    * [Region Detection and Description](region-detection/index.md)
+    * [Image Processing](6-image-processing/index.md)
+    * [Point Processing](7-point-processing/index.md)
+    * [Region Processing](8-region-processing/index.md)
+    * [Region Detection and Description](9-region-detection/index.md)
 	
 ## Timetable
 
 * Labs
 	* Thursdays 9:00, Week A in *LF31*
-		* 5 x 2 hour lab sessions + marking session (10 May 9:00)
-		* Deadline before start of next lab
-		* No further extensions
+    * 5 x 2 hour lab sessions + marking session (10 May 9:00)
+    * Deadline before start of next lab
+    * No further extensions
 	* 20% of course mark
 * Coursework Assignments
     * 5 exercises (Scheduled for Week B)
@@ -73,8 +74,8 @@ Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [
 
 1. [x] [Kwake World](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20614199_1/xid-20614199_1) (1 session)
 2. [ ] [The Orrey](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20614200_1/xid-20614200_1) (2 sessions)
-3. [ ] [Point Processing Transformations](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20615301_1/xid-20615301_1) - 26 April 9:00
-4. [ ] [Image Enhacement](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20615302_1/xid-20615302_1) - 10 May 9:00
+3. [x] [Point Processing Transformations](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20615301_1/xid-20615301_1) - 26 April 9:00
+4. [x] [Image Enhacement](https://online.manchester.ac.uk/bbcswebdav/pid-5832612-dt-content-rid-20615302_1/xid-20615302_1) - 10 May 9:00
 
 * Can I use C++? Yes
 * Can I use C#/Objective C? Yes, but:
@@ -86,7 +87,7 @@ Lecturers: [Toby Howard](mailto:toby.howard@manchester.ac.uk) (course leader), [
 2. [x] [3D modelling and viewing](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614194_1/xid-20614194_1) - 2 March 17:00 
 3. [x] [Lighting and texture](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614196_1/xid-20614196_1) - 16 March 17:00
 4. [x] [Read, modify and save an image](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614197_1/xid-20614197_1) - 30 March 17:00
-5. [ ] [Region Based Processing](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614198_1/xid-20614198_1) - 4 May 17:00
+5. [x] [Region Based Processing](https://online.manchester.ac.uk/bbcswebdav/pid-5832613-dt-content-rid-20614198_1/xid-20614198_1) - 4 May 17:00
 
 ## Course aims
 

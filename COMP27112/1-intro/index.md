@@ -71,7 +71,7 @@
 
 ## GLUT
 * GL Utility Toolkit (GLUT)
-* OpenGL does not handle interaction devices
+* OpenGL does not handle interaction devices, GLUT does
 * Interaction
     * interaction with mouse and keyboard
     * simple menu system
@@ -91,3 +91,12 @@
     * Tessellation
 * [Command reference](http://www.opengl.org/sdk/docs/man)
 
+## Main features of OpenGL
+
+* 3d Graphics (points, lines, polygons)
+* Coordinate transformations
+* Camera for viewing
+* Hidden surface removal
+* Lighting and shading
+* Texturing
+* Pixel (image) operations

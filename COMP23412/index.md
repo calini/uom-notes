@@ -53,7 +53,7 @@ Course leader: [Caroline Jay](mailto:caroline.jay@manchester.ac.uk)
   * [REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 
 ## Table of contents
-* [Model View Controller](mvc.md)
+* [Week 1: Model View Controller](mvc.md)
 * TODO
 	
 ## Timetable

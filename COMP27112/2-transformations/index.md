@@ -58,7 +58,7 @@ z' = z . sz
 
 ### Rotations
 
-#### 2D Rotations
+### 2D Rotations
 ![](2d-rotation.png)
 ```
 x = Rcosϕ
@@ -79,14 +79,16 @@ If you want to rotate by another point Q(qx, qy):
 * Do the rotation by the angle Θ
 * Translate back by (+qx, +qy)
 
-#### 3D Rotations
-* Rotations about one of the axes (for example Z):
+### 3D Rotations
+#### Rotations about one of the axes (for example Z):
+![](3d-rotation-around-z-axis.png)
 ```
 x'= xcosΘ - ysinΘ
 y'= xsinΘ + ycosΘ
 z' = z (no change)
 ```
-* Rotations about an **arbitrary** axis vector A
+#### Rotations about an **arbitrary** axis vector A
+![](3d-rotation-arbitrary-vector.png)
   * Is analogous to 2D rotations about an arbitrary point
   * The approach is a sequence of steps:
     1. Shift the vector A until it passes through the origin (M1) -> A1
@@ -141,6 +143,8 @@ Example: Scaling an object about an arbitrary point P
 * M3: Translate back
 
 Composite transformation is ```M3*M2*M1```
+
+## asdfasdfg
 
 ### Non-invertible transformations
 Scaling by
