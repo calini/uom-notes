@@ -54,6 +54,9 @@ Course leader: [Caroline Jay](mailto:caroline.jay@manchester.ac.uk)
 
 ## Table of contents
 * [Week 1: Model View Controller](mvc.md)
+* [Week 2: Model View Controller](user-interface-design.md)
+* [Week 3: Data modelling](data-modelling.md)
+* [Week 4: Security](security.md)
 * TODO
 	
 ## Timetable
