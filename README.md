@@ -7,4 +7,4 @@ Feel free to contribute.
 
 ## Course notes
 
-Visit the [website](https://colinx05.github.io/uom-notes) to view them.
+Visit the [website](https://ilie.io/uom-notes) to view them.
